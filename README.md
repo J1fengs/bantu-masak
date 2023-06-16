@@ -1,50 +1,121 @@
-# bantu-masak
+<br />
+<p align="center">
+  <a href="https://github.com/J1fengs/bantu-masak">
+    <img src="https://github.com/J1fengs/bantu-masak/assets/79673174/8c0384fb-1a58-4b85-a59d-2faa46670644" width='250dp' alt="Logo" >
+ </a>
 
-BantuMasak project collab repo
+<h2 align="center">
+BantuMasak: Your Personal Meal Planner and Recipe Assistant</h2>
 
-Mobile Development repository link : 
-https://github.com/J1fengs/BantuMasak
+<p align="center">
+  This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
+   Program.
+    <br />
+    <a href="https://github.com/J1fengs/bantu-masak"><strong>Explore the project »</strong></a>
+    <br />
+    <br />
+    <a href="https://docs.google.com/document/d/19By6V09SjBDc5M-rbMGzih1PK0ZwWzYv8hx0hMLWTiE/edit">Project Brief</a>
+    ·
+    <a href="https://youtu.be/L247o08ykyI">Video Presentation</a> (KATANYA MASIH UPDATE)
+    ·
+    <a href="...">Presentation and Go To Market Slide</a> (BELUM DIMASUKIN)
+    <br />
+    © C23-PS370 Bangkit Product-Based Capstone Team
+  </p>
+</p>
+<br />
 
-Cloud Computing repository link : 
-https://github.com/MunzirT/testing-JWT-auth-loginandregister
+# Our Team (C23-PS370)
+| Name                   | Student ID | Path                |
+| ---------------------- | ---------- | ------------------- |
+| Santiana     | M304DSY2487 | Machine Learning    |
+| Jihan Kamilah   | M304DSY2993 | Machine Learning    |
+| Raka Belva Raihansha          | C151DSX2881  | Cloud Computing |
+| Munzir Tamam       | C151DSX2692 | Cloud Computing |
+| Jifan Izza Sumendra   | A151DSX2035 | Android Development     |
+| Faishal Ikhsanudin | A248DSX2906 | Android Development     |
 
-Machine Learning repository link : 
-https://github.com/jihanKamilah/ML
+<br>
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-our-project">About The Project</a></li>
+    <li><a href="#app-overview">App Overview</a></li>
+    <li>
+      <a href="#documentation">Documentation</a>
+      <ul>
+        <li><a href="#machine-learning-development-documentation">Machine Learning Development Documentation</a></li>
+        <li><a href="#mobile-development-documentation">Mobile Development Documentation</a></li>
+        <li><a href="#cloud-computing-documentation">Cloud Computing Documentation</a></li>
+      </ul>
+    </li>
+    <li><a href="#our-contact">Contact</a></li>
+  </ol>
+</details>
 
-# About BantuMasak 
-BantuMasak is an Android application with a main feature designed to assist housewives in planning meals for multiple days. The application provides a wide range of recipes that can be added to the meal plan section, complete with ingredients and step-by-step instructions for preparing the dishes. Additionally, BantuMasak includes a recommendation system that suggests suitable menus for housewives to cook. Furthermore, the application allows housewives to upload images of unfamiliar foods in order to identify them.
+# About Our Project
+We have noticed that our mothers often struggle with selecting menus for breakfast, lunch, and dinner. As housewives, they typically have the necessary ingredients, but they still have difficulty choosing appropriate recipes and planning their meals effectively. This is because they lack proper meal planning skills, and they often prepare excessive amounts of food, leading to food waste. According to the Berkeley Food Network (BFN), household food waste in Indonesia is one of the most significant issues, with an average of 9.4 grams per capita per day in households with a middle-income level. We are concerned about these issues and aim to assist housewives in implementing zero-waste cooking, which involves leaving no waste behind while preparing a meal. Our objective is to encourage housewives to plan their meals systematically with the appropriate portion of ingredients. To achieve this, we plan to develop an app that will help housewives plan their meals for several days (max 7 days) by selecting suitable menus based on available ingredients and recommending recipes. We also provide food detection that allows housewives to scan unfamiliar food and obtain detailed information such as the name, ingredients, and recipe.
 
-## Implementation
+# App Overview
 
-### Android Studio
+- **Prerequisites**
+  1.  Android
+  2.  Internet connection
 
--Implementing UI design using XML 
--Implementing API on many features using Retrofit
--Create a food classification feature using TensorFlow Lite
+- **Installation**
+  1.  Download the APK
+  2.  Install the APK
 
-### Figma
+- **Register**
+  1.  Open BantuMasak Applications
+  2.  Register your email address
 
-Collaborating to create UI design 
-Create and manage application design system
-Making sure that user will have a pleasant experience
+- **Features**
+  1.  Recipes for you
+  2.  Meal planner
+  3.  Food classification
+  4.  Search by ingredients
 
+- **Screenshot**
+  ### Project Architecture
+  MASUKIN GAMBAR
+  
+  ### BantuMasak App
+  ![result](https://github.com/tdkRungkad/bantuMasak/assets/129688029/1c82a01e-f32d-4dd2-99f3-e2fc1d2914a0)
+  
+  ![recipeforyou](https://github.com/tdkRungkad/bantuMasak/assets/129688029/d176c870-533b-438e-af21-f02957cfeddc)
+  ![search1](https://github.com/tdkRungkad/bantuMasak/assets/129688029/0ba5277e-c6c0-474a-8975-45f46410e8fe)
 
-## Features
+  ### Security
+  MASUKIN GAMBAR
+  
+# Documentation
 
-- Recipes for you
-- Meal planner
-- Food classification
+## Machine Learning Development Documentation
+<a href="https://github.com/jihanKamilah/ML">Link for Machine Learning Documentation
 
-## Result (Mobile Development)
+## Mobile Development Documentation
+<a href="https://github.com/J1fengs/BantuMasak">Link for Mobile Development Documentation
 
-![result](https://github.com/tdkRungkad/bantuMasak/assets/129688029/1c82a01e-f32d-4dd2-99f3-e2fc1d2914a0)
+<a href="https://drive.google.com/drive/folders/1jKLA6dqjqj8Yd83pVi8HtLZlWffLek_4">Link for Deployed Apk
 
-### Recipe for You
-![recipeforyou](https://github.com/tdkRungkad/bantuMasak/assets/129688029/d176c870-533b-438e-af21-f02957cfeddc)
+## Cloud Computing Documentation
+<a href="https://github.com/MunzirT/testing-JWT-auth-loginandregister">Link for Cloud Computing Documentation
 
-### Search Recipe
-![search1](https://github.com/tdkRungkad/bantuMasak/assets/129688029/0ba5277e-c6c0-474a-8975-45f46410e8fe)
+  ### REST API Documentation
+  For API documentation, see the following link
+  
+  <a href="...">REST API Documentation | NANTI ISI YA GATAU ABISNYA
+  
+  <img src="..." alt="..." > | NANTI ISI GAMBAR
 
-### Security
-![autenthication](https://github.com/tdkRungkad/bantuMasak/assets/129688029/7f263753-dd6d-4663-9f4f-860cdef1cf22)
-
+## Our Contact
+|          Nama         |       Contact       |
+|:---------------------:|:-------------------:|
+|  [Santiana](https://github.com/Santiana1922)  | <a href="https://www.linkedin.com/in/santiana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  [Jihan Kamilah](https://github.com/jihanKamilah)  | <a href="https://www.linkedin.com/in/jihan-kamilah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  [Raka Belva Raihansha](https://github.com/Santiana1922)  | <a href="https://www.linkedin.com/in/raka-belva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  [Munzir Tamam](https://github.com/jihanKamilah)  | <a href="https://www.linkedin.com/in/munzir-tamam-962a0a157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  [Jifan Izza Sumendra](https://github.com/Santiana1922)  | <a href="https://www.linkedin.com/in/jifan-izza-bb531920a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  [Faishal Ikhsanudin](https://github.com/jihanKamilah)  | <a href="https://www.linkedin.com/in/faishal-ikhsanudin-072286238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
