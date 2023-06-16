@@ -100,14 +100,13 @@ We have noticed that our mothers often struggle with selecting menus for breakfa
 <a href="https://drive.google.com/drive/folders/1jKLA6dqjqj8Yd83pVi8HtLZlWffLek_4">Link for Deployed Apk
 
 ## Cloud Computing Documentation
-<a href="https://github.com/MunzirT/testing-JWT-auth-loginandregister">Link for Cloud Computing Documentation
+<a href="https://github.com/MunzirT/BantuMasak_APIs">Link for Cloud Computing Documentation
 
   ### REST API Documentation
   For API documentation, see the following link
   
-  <a href="...">REST API Documentation | NANTI ISI YA GATAU ABISNYA
-  
-  <img src="..." alt="..." > | NANTI ISI GAMBAR
+  <a href="https://github.com/MunzirT/BantuMasak_APIs">REST API Documentation 
+
 
 ## Our Contact
 |          Nama         |       Contact       |
