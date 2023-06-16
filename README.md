@@ -72,10 +72,10 @@ We have noticed that our mothers often struggle with selecting menus for breakfa
   2.  Register your email address
 
 - **Features**
-  1.  Recipes for you
-  2.  Meal planner
+  1.  Meal planner
+  2.  Recipe recommendation
   3.  Food classification
-  4.  Search by ingredients
+  4.  Search recipe by ingredients
 
 - **Screenshot**
   ### Project Architecture
