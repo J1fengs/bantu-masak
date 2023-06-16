@@ -102,11 +102,6 @@ We have noticed that our mothers often struggle with selecting menus for breakfa
 ## Cloud Computing Documentation
 <a href="https://github.com/MunzirT/BantuMasak_APIs">Link for Cloud Computing Documentation
 
-  ### REST API Documentation
-  For API documentation, see the following link
-  
-  <a href="https://github.com/MunzirT/BantuMasak_APIs">REST API Documentation 
-
 
 ## Our Contact
 |          Nama         |       Contact       |
