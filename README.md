@@ -79,7 +79,7 @@ We have noticed that our mothers often struggle with selecting menus for breakfa
 
 - **Screenshot**
   ### Project Architecture
-  MASUKIN GAMBAR
+  ![Project Architecture](https://user-images.githubusercontent.com/104478928/246432125-29035674-0879-44cf-a5ff-daca39bb9192.png)
   
   ### BantuMasak App
   ![result](https://github.com/tdkRungkad/bantuMasak/assets/129688029/1c82a01e-f32d-4dd2-99f3-e2fc1d2914a0)
