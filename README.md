@@ -113,9 +113,9 @@ We have noticed that our mothers often struggle with selecting menus for breakfa
 ## Our Contact
 |          Nama         |       Contact       |
 |:---------------------:|:-------------------:|
-|  [Santiana](https://github.com/Santiana1922)  | <a href="https://www.linkedin.com/in/santiana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|  [Jihan Kamilah](https://github.com/jihanKamilah)  | <a href="https://www.linkedin.com/in/jihan-kamilah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|  [Raka Belva Raihansha](https://github.com/Santiana1922)  | <a href="https://www.linkedin.com/in/raka-belva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|  [Munzir Tamam](https://github.com/jihanKamilah)  | <a href="https://www.linkedin.com/in/munzir-tamam-962a0a157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|  [Jifan Izza Sumendra](https://github.com/Santiana1922)  | <a href="https://www.linkedin.com/in/jifan-izza-bb531920a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|  [Faishal Ikhsanudin](https://github.com/jihanKamilah)  | <a href="https://www.linkedin.com/in/faishal-ikhsanudin-072286238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  Santiana  | <a href="https://www.linkedin.com/in/santiana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  Jihan Kamilah  | <a href="https://www.linkedin.com/in/jihan-kamilah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  Raka Belva Raihansha  | <a href="https://www.linkedin.com/in/raka-belva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  Munzir Tamam  | <a href="https://www.linkedin.com/in/munzir-tamam-962a0a157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  Jifan Izza Sumendra  | <a href="https://www.linkedin.com/in/jifan-izza-bb531920a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+|  Faishal Ikhsanudin  | <a href="https://www.linkedin.com/in/faishal-ikhsanudin-072286238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
