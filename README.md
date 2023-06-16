@@ -86,6 +86,7 @@ We have noticed that our mothers often struggle with selecting menus for breakfa
   
   ![recipeforyou](https://github.com/tdkRungkad/bantuMasak/assets/129688029/d176c870-533b-438e-af21-f02957cfeddc)
   ![search1](https://github.com/tdkRungkad/bantuMasak/assets/129688029/0ba5277e-c6c0-474a-8975-45f46410e8fe)
+  <img src="https://github.com/J1fengs/bantu-masak/assets/79673174/96052546-2a24-4e2f-9a8a-21cbd02b318f" width='225dp' alt="Logo" >
   ![autenthication](https://github.com/tdkRungkad/bantuMasak/assets/129688029/7f263753-dd6d-4663-9f4f-860cdef1cf22)
   
 # Documentation
