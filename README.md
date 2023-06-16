@@ -16,9 +16,9 @@ BantuMasak: Your Personal Meal Planner and Recipe Assistant</h2>
     <br />
     <a href="https://docs.google.com/document/d/19By6V09SjBDc5M-rbMGzih1PK0ZwWzYv8hx0hMLWTiE/edit">Project Brief</a>
     ·
-    <a href="https://youtu.be/L247o08ykyI">Video Presentation</a> (KATANYA MASIH UPDATE)
+    <a href="https://youtu.be/P2x-hpLLDtY">Video Presentation</a>
     ·
-    <a href="...">Presentation and Go To Market Slide</a> (BELUM DIMASUKIN)
+    <a href="https://drive.google.com/file/d/1EJf_QLWYMTRr5RC_SGdoampstB9nfYAS/view">Presentation and Go To Market Slide</a>
     <br />
     © C23-PS370 Bangkit Product-Based Capstone Team
   </p>
